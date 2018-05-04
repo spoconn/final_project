@@ -1,0 +1,11 @@
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	background-image: url("../images/library_background.jpg");
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+}
+
